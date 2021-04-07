@@ -1,0 +1,32 @@
+
+body {
+    background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+    background-color: transparent;
+}
+.logo {
+    margin-top: 35px;
+    margin-left: 75px;
+    font-weight: lighter;
+}
+.blue {
+    font-weight: bold;
+    margin-left:-10px;
+}
+#gohome {
+    text-decoration: none;
+    color: black;
+}
+.button-width {
+    width: 110px;
+}
